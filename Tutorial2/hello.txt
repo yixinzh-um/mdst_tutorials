@@ -1,0 +1,3 @@
+C:\Users\15378\Desktop\mdst_tutorials\Tutorial1\hello.txt
+The file cannot be copied onto itself.
+        0 file(s) copied.
